@@ -23,6 +23,8 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 28
+    namespace 'com.appleeducate.appreview'
+
 
     defaultConfig {
         minSdkVersion 16
